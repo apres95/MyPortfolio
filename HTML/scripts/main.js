@@ -281,13 +281,6 @@
 			navigationText: ['', '']
 		});
 
-		$('.clients').owlCarousel({
-			items: 5,
-			autoPlay: true,
-			theme: 'owl-unica',
-			pagination: false
-		});
-
 		/*=======================================
 		=            Form validation            =
 		=======================================*/

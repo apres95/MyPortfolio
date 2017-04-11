@@ -15,7 +15,7 @@
 			exit;
 		}
 
-		$recipient = "demo@alexilin.ru"; // Replace this address with yours.
+		$recipient = "alexisepresbrey@gmail.com"; 
 
 		$subject = "Mail from your site";
 
